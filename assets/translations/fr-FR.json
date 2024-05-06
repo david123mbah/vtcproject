@@ -1,0 +1,40 @@
+{
+    "lib/screens/onbording/components/second_onbord.dart":  "Scan visitor identification cards/passports.",
+    "Système de gestion de l’information sur les visiteurs et les véhicules": "Visitor and Vehicle Information Management System",
+    "Sélectionnez la langue":  
+    "Select Language",
+
+   "Welcome": "Bienvenue",
+   "Connectez-vous à votre compte en saisissant votre adresse e-mail et votre mot de passe ci-dessous. Heureux de vous revoir.": "Login to your account by entering your email address and password below. Happy to see you again.",
+   "Scanner les cartes d’identité/passeports des visiteurs": "Scan the identification cards/passports of the visitors.",
+   "Capture automatique de la plaque d'immatriculation du véhicule": "Automatic capture of the vehicle license plate.",
+   "Gérez les visiteurs en scannant les cartes d’identité ou les passeports et en extrayant les informations sur les visiteurs.": "Manage visitors by scanning their identification cards or passports and extracting visitor information.",
+   "Gérez les véhicules en scannant automatiquement les numéros de plaque d’immatriculation des véhicules et en gardant une trace de toutes les informations.": "Manage vehicles by automatically scanning vehicle license plate numbers and keeping track of all information.",
+   "Gérer les visiteurs et les véhicules." :"Manage Visitors & Vehicles",
+   "Register Visitor / Vehicle": "Enregistrer le visiteur / véhicule",
+    "Recent Visitors/Vehicles": "Recent Visitors/Vechicles",
+   
+   
+  "Carte d'identité":  "ID Card",
+   "Scanner Meintanant": "Scan Now",
+  "Passeport": "Passport",
+  "Scanner le véhicule"  : "Scan Vehicle",
+  "Vehicles": "véhicules.",
+  "Voir tous": "See all",
+  "Détail du véhicule analysé": "Scanned Vehicle Detail",
+  "Mot de passe oublié ?": "Forgot password?",
+  "Connectez-vous": "Sign in",
+  "Détail du visiteur scanné": "Scanned Visitor Detail",
+  "profil": "Profile",
+  "Paramètres" :"Settings",
+  "Modifier le profil": "Edit Profile",
+  "Langue": "Language",
+  "Recherche": "Search",
+  "Se déconnecter": "Logout"
+
+
+
+
+
+
+}  

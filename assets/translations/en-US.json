@@ -1,0 +1,42 @@
+{
+   "Bienvenue": "Welcome",
+   "Select Language": "Sélectionnez la langue",
+   "Login to your account by entering your email address and password below. Happy to see you again.": "Connectez-vous à votre compte en saisissant votre adresse e-mail et votre mot de passe ci-dessous. Heureux de vous revoir.",
+   "Visitor and Vehicle Information Management System": "Système de gestion de l’information sur les visiteurs et les véhicules",
+   "Scan visitor identification cards/passports.": "lib/screens/onbording/components/second_onbord.dart",
+   "Scan the identification cards/passports of the visitors": "Scanner les cartes d’identité/passeports des visiteurs",
+   "Automatic capture of the vehicle license plate.": "Capture automatique de la plaque d'immatriculation du véhicule" ,
+   "Manage visitors by scanning their identification cards or passports and extracting visitor information.": "Gérez les visiteurs en scannant les cartes d’identité ou les passeports et en extrayant les informations sur les visiteurs.",
+   "Manage vehicles by automatically scanning vehicle license plate numbers and keeping track of all information." :"Gérez les véhicules en scannant automatiquement les numéros de plaque d’immatriculation des véhicules et en gardant une trace de toutes les informations.",
+   "Manage Visitors & Vehicles": "Gérer les visiteurs et les véhicules.",
+   "Register Visitor / Vehicle": "Enregistrer le visiteur / véhicule",
+   "Recent Visitors/Vechicles": "Recent Visitors/Vehicles",
+
+  
+
+   "Scan Passport/ID Card": "Scanner le passeport / la carte d'identité",
+   "Scan Vehicle": "Scanner le véhicule",
+   "ID Card": "Carte d'identité",
+   "Passport": "Passeport",
+   "Vehicles": "véhicules.",
+   "See all":  "Voir tous.",
+   "Scanned Vehicle Detail": "Détail du véhicule analysé.",
+   "Forgot password?": "Mot de passe oublié ?",
+   "Sign in": "Connectez-vous" ,
+   "Scanned Visitor Detail": "Détail du visiteur scanné",
+   "Language": "Langue",
+   "Search" : "Recherche",
+   "logout" : "Se déconnecter",
+   "Scan Now": "Scanner Meintanant",
+
+
+   
+   
+   "Profile": "profil",
+   "Settings": "Paramètres",
+   "Edit Profile": "Modifier le profil",
+   "Phone Number": "Numéro de téléphone"
+   
+
+
+}
