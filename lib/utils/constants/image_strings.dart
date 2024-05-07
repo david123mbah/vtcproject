@@ -11,6 +11,7 @@ class TImages {
   
   //Profile
   static const String user = "assets/images/user/user_one.jpg";
+  static const String cameraSnap = "assets/images/camera-snap.jpg";
 
 }
 

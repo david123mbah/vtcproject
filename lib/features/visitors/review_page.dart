@@ -1,6 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
+import 'package:get/get.dart';
+import 'package:testproject/features/scan_qrcode/scan_qr_page.dart';
 import 'package:testproject/utils/device/device_utility.dart';
 import 'package:testproject/utils/helpers/helper_functions.dart';
 import 'package:five_pointed_star/five_pointed_star.dart';
@@ -126,7 +128,9 @@ class _ReviewScreenState extends State<ReviewScreen> {
                 child: SizedBox(
                   width: MediaQuery.of(context).size.width / 1.5,
                   child: ElevatedButton(
-                    onPressed: () {},
+                    onPressed: () {
+                      Get.to(()=> ScanQrCodeScreen());
+                    },
                     child: Text("Submit"),
                   ),
                 ),
