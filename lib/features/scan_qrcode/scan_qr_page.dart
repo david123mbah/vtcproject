@@ -42,7 +42,7 @@ class ScanQrCodeScreen extends StatelessWidget {
                         child: Container(
                           decoration: BoxDecoration(
                               border:
-                                  Border.all(color: Colors.black, width: 10)),
+                                  Border.all(color: Colors.black, width: 2)),
                         ),
                         onError: (context, error) => Text(
                               error.toString(),
